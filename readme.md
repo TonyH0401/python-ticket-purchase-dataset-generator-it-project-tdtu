@@ -1,6 +1,6 @@
-# Ticket Purchase Dataset Fenerator using Python
+# Ticket Purchase Dataset Generator using Python
 
-#### Part of Information Technology Project by TDTU
+This is part of Information Technology Project by TDTU. It contains ChatGPT prompt to generate Python code for dataset generation, code snippet for dataset generation using ChatGPTv3 and code snippet for dataset generation using ChatGPTv4.
 
 ## Features
 
