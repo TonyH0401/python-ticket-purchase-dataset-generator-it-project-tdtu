@@ -1,0 +1,27 @@
+As an expert in creating datasets with Python, please create a CSV file with at least 1 million row entries. If there are limits in python on Row amount, duplicate the code within the code to get the results I want.
+
+The dataset should contain sales data for an online ticket selling marketplace/website.
+
+The date range of the data should be spread over January 2021 to December 2023 and should be chosen at random.
+There should be at least 1000000 random CustomerNames. 
+CustomerName repeated less than 10 times in a month. 
+CustomerName cannot repeated twice for the same EventName in the same date.
+Each CustomerName is mapped to 1 CustomerID only. Each EventName is mapped to 1 EventID only.
+At least 200 different EventName.
+The TicketQuantyPerEvent must be randomly generated with a range from 1 to 15 per CustomerName.
+PaymentType must be between Cash or Transaction.
+
+Please add the following columns and their format:
+CustomerName, Text
+CustomerID, Text
+SaleDate, Date dd/mm/yyyy
+EventName, Text
+EventID, Text
+TicketQuantyPerEvent, Number
+TotalPrice, Currency
+PaymentType, Text
+
+Please create fake random names for CustomerName and EventName
+
+The CSV should then be export here 
+C:\Users\mtbv\Documents\1.tdtu\3.da-cntt\python-dataset
